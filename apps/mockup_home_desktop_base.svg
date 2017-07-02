@@ -7,18 +7,17 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1088"
-   height="2624.0002"
+   height="1697.3336"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.92.1 r"
    version="1.0"
    sodipodi:docname="mockup_home_desktop_base.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/bea/Projects/Design/mockup_home.png"
+   inkscape:export-filename="/home/bea/Projects/Design/out/mockup_home_desktop_base.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
   <metadata
@@ -58,9 +57,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57144095"
-     inkscape:cx="654.49127"
-     inkscape:cy="2298.4506"
+     inkscape:zoom="1"
+     inkscape:cx="839.03312"
+     inkscape:cy="1388.5"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="true"
@@ -78,187 +77,187 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="32,1536"
+       position="32,609.33336"
        orientation="1,0"
        id="guide-30"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="42.666667,1536"
+       position="42.666667,609.33336"
        orientation="1,0"
        id="guide-40"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="106.66667,1536"
+       position="106.66667,609.33336"
        orientation="1,0"
        id="guide-100"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="117.33333,1536"
+       position="117.33333,609.33336"
        orientation="1,0"
        id="guide-110"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="128,1536"
+       position="128,609.33336"
        orientation="1,0"
        id="guide-120"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="192,1536"
+       position="192,609.33336"
        orientation="1,0"
        id="guide-180"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="202.66667,1536"
+       position="202.66667,609.33336"
        orientation="1,0"
        id="guide-190"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="213.33333,1536"
+       position="213.33333,609.33336"
        orientation="1,0"
        id="guide-200"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="277.33333,1536"
+       position="277.33333,609.33336"
        orientation="1,0"
        id="guide-260"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="288,1536"
+       position="288,609.33336"
        orientation="-1,1.0165641e-08"
        id="guide-270"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="298.66667,1536"
+       position="298.66667,609.33336"
        orientation="1,0"
        id="guide-280"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="362.66667,1536"
+       position="362.66667,609.33336"
        orientation="1,0"
        id="guide-340"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="373.33333,1536"
+       position="373.33333,609.33336"
        orientation="1,0"
        id="guide-350"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="384,1536"
+       position="384,609.33336"
        orientation="1,0"
        id="guide-360"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="448,1536"
+       position="448,609.33336"
        orientation="1,0"
        id="guide-420"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="458.66667,1536"
+       position="458.66667,609.33336"
        orientation="1,0"
        id="guide-430"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="469.33333,1536"
+       position="469.33333,609.33336"
        orientation="1,0"
        id="guide-440"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="533.33333,1536"
+       position="533.33333,609.33336"
        orientation="1,0"
        id="guide-500"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="544,1536"
+       position="544,609.33336"
        orientation="1,0"
        id="guide-510"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="554.66667,1536"
+       position="554.66667,609.33336"
        orientation="1,0"
        id="guide-520"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="618.66667,1536"
+       position="618.66667,609.33336"
        orientation="1,0"
        id="guide-580"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="629.33333,1536"
+       position="629.33333,609.33336"
        orientation="1,0"
        id="guide-590"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="640,1536"
+       position="640,609.33336"
        orientation="1,0"
        id="guide-600"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="704,1536"
+       position="704,609.33336"
        orientation="1,0"
        id="guide-660"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="714.66667,1536"
+       position="714.66667,609.33336"
        orientation="1,0"
        id="guide-670"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="725.33333,1536"
+       position="725.33333,609.33336"
        orientation="1,0"
        id="guide-680"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="789.33333,1536"
+       position="789.33333,609.33336"
        orientation="1,0"
        id="guide-740"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="800,1536"
+       position="800,609.33336"
        orientation="1,0"
        id="guide-750"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="810.66667,1536"
+       position="810.66667,609.33336"
        orientation="1,0"
        id="guide-760"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="874.66667,1536"
+       position="874.66667,609.33336"
        orientation="1,0"
        id="guide-820"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="885.33333,1536"
+       position="885.33333,609.33336"
        orientation="1,0"
        id="guide-830"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="896,1536"
+       position="896,609.33336"
        orientation="1,0"
        id="guide-840"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="960,1536"
+       position="960,609.33336"
        orientation="1,0"
        id="guide-900"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="970.66667,1536"
+       position="970.66667,609.33336"
        orientation="1,0"
        id="guide-910"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="981.33333,1536"
+       position="981.33333,609.33336"
        orientation="1,0"
        id="guide-920"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1045.3333,1536"
+       position="1045.3333,609.33336"
        orientation="1,0"
        id="guide-980"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1056,1536"
+       position="1056,609.33336"
        orientation="1,0"
        id="guide-990"
        inkscape:locked="false" />
@@ -275,15 +274,14 @@
        spacingx="1.0666667"
        spacingy="1.0666667"
        originx="2.9605948e-17"
-       originy="1536" />
+       originy="609.33336" />
   </sodipodi:namedview>
-  <rect
-     y="255.99997"
-     x="1.4566126e-13"
-     height="2197.3335"
-     width="1088"
+  <path
+     style="opacity:0.997;fill:#feffff;fill-opacity:1;stroke:none;stroke-width:32.92076874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0,256.00022 H 1088 V 1293.3337 H 0 Z"
      id="rect5316"
-     style="opacity:0.997;fill:#feffff;fill-opacity:1;stroke:none;stroke-width:32.92076874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
   <g
      id="g5393"
      transform="translate(0,2.5410156e-5)" />
@@ -498,19 +496,18 @@
   </g>
   <g
      id="g4830"
-     transform="translate(0,682.66685)">
+     transform="translate(0,-383.99967)">
     <g
        id="g4762"
        transform="translate(0,746.66667)">
       <g
          id="g4723">
-        <rect
+        <path
            style="opacity:0.997;fill:#333333;fill-opacity:1;stroke:none;stroke-width:11.69561481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,917.33325 H 1088 V 1334.6666 H 0 Z"
            id="rect5517"
-           width="1088"
-           height="277.33337"
-           x="2.9605949e-17"
-           y="917.33325" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
         <flowRoot
            transform="translate(-17.133734,-324.97589)"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -525,15 +522,21 @@
              style="font-weight:bold;font-size:26.66666603px;fill:#ffffff;fill-opacity:1"
              id="flowPara5529">Related Topics</flowPara><flowPara
              style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-             id="flowPara5533">Versions and Build Numbers</flowPara><flowPara
-             id="flowPara5571"
-             style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1">Turning Extended Tips On and Off</flowPara><flowPara
+             id="flowPara5539">Viewing a Database</flowPara><flowPara
              style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-             id="flowPara5537">The LibreOffice Help Window</flowPara><flowPara
-             id="flowPara5573"
-             style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1">Tips and Extended Tips</flowPara><flowPara
+             id="flowPara21857">Registering and Deleting a Database</flowPara><flowPara
              style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-             id="flowPara5539" /><flowPara
+             id="flowPara21859">Creating a New Database</flowPara><flowPara
+             style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
+             id="flowPara21861">Working with Tables</flowPara><flowPara
+             style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
+             id="flowPara21863">Working with Queries</flowPara><flowPara
+             style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
+             id="flowPara21865">Working with Forms</flowPara><flowPara
+             style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
+             id="flowPara21867">Creating Reports</flowPara><flowPara
+             style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
+             id="flowPara21869" /><flowPara
              style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
              id="flowPara5541" /><flowPara
              style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
@@ -563,34 +566,18 @@
              height="533.33337"
              width="1429.3334"
              id="rect4981" /></flowRegion><flowPara
-           id="flowPara4995"
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1">Index - Keyword Search in the Help</flowPara><flowPara
-           id="flowPara4997"
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1">Find - The Full-Text Search</flowPara><flowPara
-           id="flowPara4999"
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1">Managing Bookmarks</flowPara><flowPara
-           id="flowPara5001"
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1">Contents - The Main Help Topics </flowPara><flowPara
            style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5003" /><flowPara
+           id="flowPara5021">Importing and Exporting Data in Base</flowPara><flowPara
            style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5005" /><flowPara
+           id="flowPara21975">Database Overview</flowPara><flowPara
            style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5007" /><flowPara
+           id="flowPara21977">Menus</flowPara><flowPara
            style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5009" /><flowPara
+           id="flowPara21979">Toolbars</flowPara><flowPara
            style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5011" /><flowPara
+           id="flowPara21981">Database Shortcut Keys</flowPara><flowPara
            style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5013" /><flowPara
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5015" /><flowPara
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5017" /><flowPara
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5019" /><flowPara
-           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"
-           id="flowPara5021" /></flowRoot>    </g>
+           id="flowPara21983">Wiki page about Base</flowPara></flowRoot>    </g>
   </g>
   <rect
      style="opacity:0.997;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.60929513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -672,7 +659,7 @@
          y="85.333305" /></flowRegion><flowPara
        id="flowPara5683"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1">Help Online</flowPara></flowRoot>  <flowRoot
-     transform="translate(1162.2499,673.93096)"
+     transform="translate(1162.2499,331.36469)"
      xml:space="preserve"
      id="flowRoot5315"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -682,112 +669,38 @@
          height="2379.9304"
          x="-1122.8572"
          y="-3.1946006" /></flowRegion><flowPara
-       id="flowPara5323"
-       style="font-size:32px;fill:#89039e;fill-opacity:1">Help</flowPara><flowPara
-       id="flowPara5327"
-       style="font-size:21.33333397px">The Help menu allows you to start and control the LibreOffice Help system.</flowPara><flowPara
-       id="flowPara5331"
-       style="font-size:32px;fill:#89039e;fill-opacity:1">LibreOffice Help</flowPara><flowPara
-       id="flowPara5335"
-       style="font-size:21.33333397px">Opens the main page of the LibreOffice Help for the current application. You can scroll through the Help pages and you can search for index terms or any text.</flowPara><flowPara
-       id="flowPara5339"
-       style="font-size:21.33333397px">    LibreOffice Help</flowPara><flowPara
-       id="flowPara5343"
-       style="font-size:32px;fill:#89039e;fill-opacity:1">What's this</flowPara><flowPara
-       id="flowPara5347"
-       style="font-size:21.33333397px">Enables extended help tips under the mouse pointer till the next click.</flowPara><flowPara
-       id="flowPara5349"
-       style="font-size:21.33333397px">     What's this</flowPara><flowPara
-       id="flowPara5353"
-       style="font-size:32px;fill:#89039e;fill-opacity:1">User Guides</flowPara><flowPara
-       id="flowPara5357"
-       style="font-size:21.33333397px">Opens the documentation page in the web browser, where users can download, read or purchase LibreOffice user guides, written by the community.</flowPara><flowPara
-       style="font-size:32px;fill:#89039e;fill-opacity:1"
-       id="flowPara5435">Get Help Online</flowPara><flowPara
-       style="font-size:21.33333397px"
-       id="flowPara5437">Opens the community support page in the web browser. Use this page to ask questions on using LibreOffice. For professional support with service level agreement, refer to the page of professional LibreOffice support.</flowPara><flowPara
-       style="font-size:32px;fill:#89039e;fill-opacity:1"
-       id="flowPara5439">Send Feedback</flowPara><flowPara
-       style="font-size:21.33333397px"
-       id="flowPara5441">Opens a feedback form in the web browser, where users can report software bugs.</flowPara><flowPara
-       style="font-size:32px;fill:#89039e;fill-opacity:1"
-       id="flowPara5443">Restart in Safe Mode</flowPara><flowPara
-       style="font-size:21.33333397px"
-       id="flowPara5445">Safe mode is a mode where LibreOffice temporarily starts with a fresh user profile and disables hardware acceleration. It helps to restore a non-working LibreOffice instance.</flowPara><flowPara
-       style="font-size:32px;fill:#89039e;fill-opacity:1"
-       id="flowPara5447">License Information</flowPara><flowPara
-       style="font-size:21.33333397px"
-       id="flowPara5449">Displays the Licensing and Legal information dialog.</flowPara><flowPara
-       style="font-size:32px;fill:#89039e;fill-opacity:1"
-       id="flowPara5451">LibreOffice Credits</flowPara><flowPara
-       style="font-size:21.33333397px"
-       id="flowPara5453">Displays the CREDITS.odt document which lists the names of individuals who have contributed to OpenOffice.org source code (and whose contributions were imported into LibreOffice) or LibreOffice since 2010-09-28.</flowPara><flowPara
-       style="font-size:32px;fill:#89039e;fill-opacity:1"
-       id="flowPara5465">Check for Updates</flowPara><flowPara
-       style="font-size:21.33333397px"
-       id="flowPara5467">Enable an Internet connection for LibreOffice. If you need a Proxy, check the LibreOffice Proxy settings in Tools - Options - Internet. Then choose Check for Updates to check for the availability of a newer version of your office suite.</flowPara><flowPara
-       style="font-size:32px;fill:#89039e;fill-opacity:1"
-       id="flowPara5455">About LibreOffice</flowPara><flowPara
-       style="font-size:21.33333397px"
-       id="flowPara5463">Displays general program information such as version number and copyrights.</flowPara><flowPara
-       id="flowPara5359"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5361"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5363"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5365"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5367"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5369"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5371"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5373"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5375"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5377"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5379"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5381"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5383"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5385"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5387"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5389"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5391"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5393"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5395"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5397"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5399"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5401"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5403"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5405"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5407"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5409"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5411"
-       style="font-size:21.33333397px" /><flowPara
-       id="flowPara5413"
-       style="font-size:21.33333397px" /><flowPara
        id="flowPara5415"
-       style="font-size:21.33333397px" /></flowRoot>  <flowRoot
+       style="font-size:32px;fill:#89039e;fill-opacity:1">Using Databases in LibreOffice Base</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15830">In LibreOffice Base, you can access data that is stored in a wide variety of database file formats. LibreOffice Base natively supports some flat file database formats, such as the dBASE format. You can also use LibreOffice Base to connect to external relational databases, such as databases from MySQL or Oracle.</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15834">The following database types are read-only types in LibreOffice Base. From within LibreOffice Base it is not possible to change the database structure or to edit, insert, and delete database records for these database types:</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15836">   Spreadsheet files</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15838">   Text files</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15842">   Address book data</flowPara><flowPara
+       style="font-size:32px;fill:#89039e;fill-opacity:1"
+       id="flowPara15846">Using a Database in LibreOffice</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15850">   To create a new database file, choose <flowSpan
+   style="font-weight:bold"
+   id="flowSpan18819">File - New - Database</flowSpan>. The <flowSpan
+   style="text-decoration: underline;text-decoration-line: underline;fill:#89039f;fill-opacity:0.94117647"
+   id="flowSpan18083">Database Wizard</flowSpan> helps you to create a database file and to register a new database within LibreOffice.</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15854">   The database file contains queries, reports, and forms for the database as well as a link to the database where the records are stored. Formatting information is also stored in the database file.</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15856">   To open a database file, choose <flowSpan
+   style="font-weight:bold"
+   id="flowSpan18821">File - Open</flowSpan>. In the <flowSpan
+   style="font-weight:bold"
+   id="flowSpan18823">File type</flowSpan> list box, select to view only &quot;Database documents&quot;. Select a database document and click <flowSpan
+   style="font-weight:bold"
+   id="flowSpan18825">Open</flowSpan>.</flowPara><flowPara
+       style="font-size:21.33333397px"
+       id="flowPara15858" /></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot5649"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -797,38 +710,22 @@
          height="85.333336"
          x="1024"
          y="2325.3335" /></flowRegion><flowPara
-       id="flowPara5655" /></flowRoot>  <image
-     y="938.66675"
-     x="37.333336"
-     id="image5665"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAwZJREFU OI1lkz1sHFUUhb9582bfznh213/sEjs/BltgIyfISgpjoSCl8CIkIyFKUlCAsCJ30EEHCIkOJUWS EiJEg1K4wYaCgmxBnERAIkPshCV2THbR2tmfrHdm3ryhsLKK4VZX99xzdK50j8V/a/yjWRyvKB17 RlhiAsAkZlVHcYmovcTvnyw/uW51u5H5EZE9svDi+NCZ4suj7uTYU3hpB4Ag1Ny6W2O5tN6+fuv+ eb1TPkv5fBnAfkx2ep/9+PCh/PwLY0OONoK/Krvc2WyxvtnkzlaLRivCddNOEPJSM0gNmvToDR6u PJQAIju8kO3Nnh4qDJIf8Hlt5gCnjhe65v7cesTaZpNvvr/H0NAg243O6R0zXDHwgc0zZ2bTvQc+ 7+/vT2V60pw6UeCNVw4C8KgTY5KEwVyK0WGf7UbIL2t1Qp3QCaNjOjV6TeLmij2e5yul2I0Spp7r RccJFy//weUf72EJ+PDtY5ycKjB+JMNuZFBK0eN5/q6bK0qpsjNKKaSURFHCu5+WIDFYtoMtHYwx 3N5ocnKqgLAgDA1SSpRSSJWdkUJYE1JKhBAIIbDtHgDiOEY5gnfmxnireBiAH37ewrIsLMtij2NN yCTu/O8VAIQFn80fZXpygCSBr5fusvjT39iOwhgDQBJ3kEmnvqq1njbGIIQAwBjDobzH9OQAAO9/ cZUrv9awHdXFtdYknfqq1EGtFHTa01r7SCm7DrSO+W19h+1GwJWbOzjKfQLTBJ02OqiVLPJzsyr/ /LfDo8f9vr6+roiOIkwcgmUh7FR3HscxzWaT++vXWq2tm28KqovLQXPjwvaDNcIwxHVdMpkMJ44e 5PpXr7Py5Ry5XI5cLofv+yilaNbKtOvli1QXl/eODurnGtXVSxu3r/JPtYJt2ySWizEJlaYhm83i eR4khs21FSrlG5fM7s7Z/WF6+tUR7PRCys+/52ULvuP2Ih0FCGIdELa3aTcqrbBVvUDcOceD78r7 BR5Xfm4Wxy7aQswg9uKMMauxMSWieInq4r44/wtriUfkrLFWAwAAAABJRU5ErkJggg== "
-     preserveAspectRatio="none"
-     height="16"
-     width="16" />
-  <image
-     y="1088.0001"
-     x="42.666668"
-     id="image5676"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAtRJREFU OI2Vkk9sVEUcxz8z895ut/sHummpabW01LSlaBQWNaShejExNWLk5MGTMRqLetLEk+Gg8WCNqYlQ ECMmSggHJBxqCQcOprE1USNCAaXdEmobqVvs9r2+3TfvzXgAypJoAp/T5JfffDLf3/wEtfTs3S0T iQHHdftAdIKdjrQeN2E4ysW9x/kPBAAdrzR39Rbee6b/wde29rSobDqJEIJQx5y7fI2x76fjXy78 +YlZmRmieOivWoEDkGvpfre9bcNgw7oc23ub6GzNAFAqh2TrXUrLWi2t6LeLcwbgnVqBYtObu+/f uHEom8nIl3f1sKUjx8UrZaavlmlan6S7LUscw9nL/7BUrjwRJbvOcf3HC2svkKmGAddJqiAUTE6V mJy6xtj4HFVtef6pB3j9hS7OnDqMFQUy6bSqeg0DBtbm4Th1mb7IKkIjOXL6CtZEAGzpyNP/aDPG WsIw5OHcDyzUPYJTl+kLayJITLVTRxatLcZIoljx2OYm3n/1IXrbcxwZK1KpBBz89CP6WybAVDtr ZyBtuDxtjMFaC4C1lie3NtG4PskHX55l+Oh5KkHAshewf/hjnuudce/4Bb3693ilEvSk02mUUggh OPPTIvOLPqcn53GTKVZ9n9gYYmP46tAIq75vvztxTNyIUFkaLS/+EQdBQBzHCCGYOF/i8OgsjptA SIXne7iOQkpJbAzfHvuGnU8P2BuChZPHCeaHg+tFtA6x1vLh4DZ+/XoXGxpzWGvxPY+E45BwFEpK Dnz+Bb7nsW1Hv3UAsq4cEl7RWV3Ue1LZ+9SpiUYWSiGzs3NE2qfqeThK8tn+Ed7aM8i+kYNc+u3n 7bdX+SbdO994Sbp1zyrlPI5QbVLYq1qHkyuzJ1+81TNzaQopBO1dm5mb+f2O+/9LvrnVAgWgkG9u tVrH9mbtrincOqRyeRvqyEZRbFO5/D1J1mQyUW9lot4ChX8BeK03+jR479kAAAAASUVORK5CYII= "
-     preserveAspectRatio="none"
-     height="16"
-     width="16" />
-  <g
+       id="flowPara5655" /></flowRoot>  <g
      id="g14354">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="rect4899-3"
        d="M 3.4826808e-6,256.00021 H 1088 v 68 H 3.4826808e-6 Z"
-       style="opacity:0.997;fill:#eaeaf3;fill-opacity:1;stroke:none;stroke-width:7.9456048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.997;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.9456048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <flowRoot
        transform="matrix(0.79776704,0,0,0.79776704,676.99803,17.886859)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#89039e;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none"
        id="flowRoot5127-3"
        xml:space="preserve"><flowRegion
-         style="fill:#89039e;fill-opacity:1"
+         style="fill:#2d2d2d;fill-opacity:1"
          id="flowRegion5123-6"><rect
-           style="fill:#89039e;fill-opacity:1"
+           style="fill:#2d2d2d;fill-opacity:1"
            y="319.99997"
            x="192"
            height="106.66667"
@@ -837,4 +734,46 @@
          id="flowPara14312">Home &gt; <flowSpan
    id="flowSpan14331"
    style="font-weight:bold">Base</flowSpan></flowPara></flowRoot>  </g>
+  <circle
+     style="opacity:0.997;fill:#89039e;fill-opacity:1;stroke:none;stroke-width:2.76685262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="path18069"
+     cx="50.76078"
+     cy="754.69336"
+     r="2.5663564" />
+  <circle
+     r="2.5663564"
+     cy="807.77441"
+     cx="50.76078"
+     id="circle18071"
+     style="opacity:0.997;fill:#89039e;fill-opacity:1;stroke:none;stroke-width:2.76685262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+  <circle
+     style="opacity:0.997;fill:#89039e;fill-opacity:1;stroke:none;stroke-width:2.76685262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="circle18073"
+     cx="50.76078"
+     cy="855.77814"
+     r="2.5663564" />
+  <circle
+     r="2.5663564"
+     cy="957.1615"
+     cx="50.76078"
+     id="circle18075"
+     style="opacity:0.997;fill:#89039e;fill-opacity:1;stroke:none;stroke-width:2.76685262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+  <circle
+     style="opacity:0.997;fill:#89039e;fill-opacity:1;stroke:none;stroke-width:2.76685262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="circle18077"
+     cx="50.76078"
+     cy="1058.3871"
+     r="2.5663564" />
+  <circle
+     r="2.5663564"
+     cy="1058.3871"
+     cx="50.76078"
+     id="circle18079"
+     style="opacity:0.997;fill:#89039e;fill-opacity:1;stroke:none;stroke-width:2.76685262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+  <circle
+     style="opacity:0.997;fill:#89039e;fill-opacity:1;stroke:none;stroke-width:2.76685262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="circle18081"
+     cx="50.76078"
+     cy="1207.978"
+     r="2.5663564" />
 </svg>
